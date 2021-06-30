@@ -1,7 +1,11 @@
 # RadReports
-This repository contains easy-to-use apps for labelling neuroradiology imaging datasets on the basis of radiology reports, as detailed in our paper: 
+This repository contains easy-to-use apps for labelling neuroradiology imaging datasets on the basis of radiology reports, as detailed in our papers: 
 
-Labelling imaging datasets on the basis of neuroradiology reports: a validation study
+
+Deep learning to automate the labelling of head MRI datasets for computer vision
+applications, European Radiology, 2021.
+
+Labelling imaging datasets on the basis of neuroradiology reports: a validation study, MICCAI LABELS Workshop, 2020
 
 If you find these apps useful, please cite our work:
 
